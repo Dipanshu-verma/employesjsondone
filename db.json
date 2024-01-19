@@ -1,92 +1,183 @@
 {
   "employees": [
     {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "department": "tech",
+      "salary": 60000,
+      "date": "2024-01-22"
+    },
+    {
       "id": 2,
       "firstName": "Dipanshu",
-      "lastName": "verma",
+      "lastName": "Verma",
       "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "department": "tech",
+      "salary": 2222222,
       "date": "2024-01-22"
     },
     {
       "id": 3,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com",
+      "department": "marketing",
+      "salary": 50000,
       "date": "2024-01-22"
-    },{
+    },
+    {
       "id": 4,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Alice",
+      "lastName": "Williams",
+      "email": "alice.williams@example.com",
+      "department": "tech",
+      "salary": 65000,
       "date": "2024-01-22"
-    }
-    ,{
+    },
+    {
       "id": 5,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "email": "charlie.brown@example.com",
+      "department": "operations",
+      "salary": 60000,
       "date": "2024-01-22"
-    }
-    ,{
+    },
+    {
       "id": 6,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Eva",
+      "lastName": "Davis",
+      "email": "eva.davis@example.com",
+      "department": "marketing",
+      "salary": 52000,
       "date": "2024-01-22"
-    },{
+    },
+    {
       "id": 7,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "David",
+      "lastName": "White",
+      "email": "david.white@example.com",
+      "department": "tech",
+      "salary": 70000,
       "date": "2024-01-22"
-    }
-    ,{
+    },
+    {
       "id": 8,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Grace",
+      "lastName": "Miller",
+      "email": "grace.miller@example.com",
+      "department": "operations",
+      "salary": 58000,
       "date": "2024-01-22"
-    }
-    ,
+    },
     {
       "id": 9,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Frank",
+      "lastName": "Taylor",
+      "email": "frank.taylor@example.com",
+      "department": "marketing",
+      "salary": 53000,
       "date": "2024-01-22"
     },
     {
       "id": 10,
-      "firstName": "devil",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Helen",
+      "lastName": "Anderson",
+      "email": "helen.anderson@example.com",
+      "department": "tech",
+      "salary": 72000,
       "date": "2024-01-22"
     },
     {
       "id": 11,
-      "firstName": "Dipanshu",
-      "lastName": "verma",
-      "email": "vermadipanshu444@gmail.com",
-      "department": "Tech",
-      "salary": "2222222",
+      "firstName": "Tom",
+      "lastName": "Wilson",
+      "email": "tom.wilson@example.com",
+      "department": "operations",
+      "salary": 61000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 12,
+      "firstName": "Sara",
+      "lastName": "Turner",
+      "email": "sara.turner@example.com",
+      "department": "marketing",
+      "salary": 54000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 13,
+      "firstName": "Kevin",
+      "lastName": "Moore",
+      "email": "kevin.moore@example.com",
+      "department": "tech",
+      "salary": 67000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 14,
+      "firstName": "Linda",
+      "lastName": "Davis",
+      "email": "linda.davis@example.com",
+      "department": "operations",
+      "salary": 59000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 15,
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peter.parker@example.com",
+      "department": "marketing",
+      "salary": 55000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 16,
+      "firstName": "Olivia",
+      "lastName": "Green",
+      "email": "olivia.green@example.com",
+      "department": "tech",
+      "salary": 68000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 17,
+      "firstName": "Mark",
+      "lastName": "Turner",
+      "email": "mark.turner@example.com",
+      "department": "operations",
+      "salary": 60000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 18,
+      "firstName": "Mia",
+      "lastName": "Johnson",
+      "email": "mia.johnson@example.com",
+      "department": "marketing",
+      "salary": 56000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 19,
+      "firstName": "Daniel",
+      "lastName": "Reed",
+      "email": "daniel.reed@example.com",
+      "department": "tech",
+      "salary": 71000,
+      "date": "2024-01-22"
+    },
+    {
+      "id": 20,
+      "firstName": "Sophia",
+      "lastName": "King",
+      "email": "sophia.king@example.com",
+      "department": "operations",
+      "salary": 62000,
       "date": "2024-01-22"
     }
   ]
